@@ -10,91 +10,12 @@
    <key>assets</key>
    <array>
     <dict>
-<<<<<<< HEAD
       <!-- KEY 测试后建议缩短 ，目前都使用https-->
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
      <string>https://github.com/CXXGOGO/ipa/raw/master/__UNI__B479075_0414090835.ipa</string>
-=======
-
-    <key>assets</key>
-
-    <array>
-
-        <dict>
-
-            <key>kind</key>
-
-            <string>software-package</string>
-
-            <key>url</key>
-
-            <string>https://raw.githubusercontent.com/CXXGOGO/ipa/master/__UNI__B479075_0414090835.ipa</string> // 软件安装包,安装包所在的服务器路径
-
-        </dict>
-
-        <dict>
-
-            <key>kind</key>
-
-            <string>full-size-image</string>
-
-            <key>needs-shine</key>
-
-            <false/>
-
-            <key>url</key>
-
-            <string>https://s1.ax1x.com/2020/04/14/Gxd4o9.png</string> //在itunes上点事的图片路径
-
-        </dict>
-
-        <dict>
-
-            <key>kind</key>
-
-            <string>display-image</string>
-
-            <key>needs-shine</key>
-
-            <false/>
-
-            <key>url</key>
-
-            <string>https://s1.ax1x.com/2020/04/14/GxdhdJ.png</string> // 安装应用显示的图片
-
-        </dict>
-
-    </array>
-
-        <key>metadata</key>
-
-        <dict>
-            <key>update-url</key>
-
-            <string>https://github.com/CXXGOGO/ipa/raw/master/manifest.plist</string> // 版本更新URL
-
-            <key>bundle-identifier</key>
-
-            <string>com.zte.test</string> // 应用bundle-identifier
-
-            <key>bundle-version</key>
-
-            <string>1.0.0</string> // 用用版本号
-
-            <key>kind</key>
-
-            <string>software</string>
-
-            <key>title</key>
-
-            <string>E招冀成签名采集器</string> // 安装应用显示的名称
-
-        </dict>
-
->>>>>>> 3e262c36cde2f8ae5a54a693603a1383ce1d89df
     </dict>
     <dict>
      <!--KEY 测试后建议缩短-->
@@ -133,9 +54,5 @@
   </dict>
  </array>
 </dict>
-<<<<<<< HEAD
 </plist>
-=======
 
-</plist>
->>>>>>> 3e262c36cde2f8ae5a54a693603a1383ce1d89df
