@@ -67,7 +67,7 @@
         <dict>
             <key>update-url</key>
 
-            <string>https://test.company.com.me/iosLocal.plist</string> // 版本更新URL
+            <string>https://github.com/CXXGOGO/ipa/raw/master/manifest.plist</string> // 版本更新URL
 
             <key>bundle-identifier</key>
 
